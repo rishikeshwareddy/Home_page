@@ -10,7 +10,7 @@
 .slider_zoom{
     opacity: 1;
     transform: scale(100%);
-    transition: 2;
+    transition: 3s;
 }
 .slider_image{
     width: 60%;
